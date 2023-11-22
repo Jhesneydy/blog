@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>scene on un sitio fantastico para compartir aprendizaje</title>
+    <link>/tags/scene/</link>
+    <description>Recent content in scene on un sitio fantastico para compartir aprendizaje</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Apr 2017 11:14:48 -0400</lastBuildDate><atom:link href="/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter IV: Master Jacques Coppenole</title>
+      <link>/post/chapter-4/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      
+      <guid>/post/chapter-4/</guid>
+      <description>Master Jacques Coppenole</description>
+    </item>
+    
+    <item>
+      <title>Chapter I: The Grand Hall</title>
+      <link>/post/chapter-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>/post/chapter-1/</guid>
+      <description>The Grand Hall</description>
+    </item>
+    
+  </channel>
+</rss>
