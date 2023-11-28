@@ -1,7 +1,9 @@
 ---
 title: "hugo desde cero "
 date: 2023-01-20T07:43:36-05:00
+author: "Ney Perea"
 draft: false
+tag: hugo
 ---
 
 

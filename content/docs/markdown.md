@@ -1,8 +1,9 @@
 ---
 title: "MarkDown  👇🏽 "
 date: 2023-01-21T17:43:56-05:00
-author: "juan de los palotes"
+author: "Ney Perea"
 draft: false
+tag: markdown
 ---
 **Markdown** es un lenguaje de marcado  que se utiliza para dar formato al texto plano.<br>
 Fue creado por [John Gruber](https://en.wikipedia.org/wiki/John_Gruber) en 2004 con el objetivo de permitir que la gente escriba con un formato fácil de leer y escribir, que pueda ser convertido de manera fácil a HTML sin tener que utilizar un editor de texto sofisticado con funciones de formato avanzadas.<br> 

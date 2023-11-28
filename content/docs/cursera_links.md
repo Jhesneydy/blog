@@ -1,11 +1,11 @@
 ---
 title: "clase links"
 date: 2023-01-23T20:11:15-05:00
-author: "Ney Pera"
+author: "Ney Perea"
 featured_image: ""
 tags: ["clases html"]
 
-draft: false
+draft: true
 ---
 
 * links hacia otras paginas del mismo sitio.
