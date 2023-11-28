@@ -7,7 +7,7 @@ draft: false
 
 ## hugo file system
 
-![treeFileStruc.png](img\treeFileStruc.png)
+![treeFileStruc.png](static/imgtreeFileStruc.png)
 ###  content folder
 Post, articles, pages all we work should be store in here.
 ###  layout folder
@@ -36,13 +36,13 @@ hugo  server
 ```
 
 to render an image the picture should be inside **static** folder
-![coverimage](img/coverImage.png)
+![coverimage](static/img/coverImage.png)
 this is an example to link an image to out article in papermod theme.
 
 
 ## making menus
 
-![coverimage](img/makingMenu.png)
+![coverimage](static/img/makingMenu.png)
 
 **weight** identifies the order of de menu position
 
