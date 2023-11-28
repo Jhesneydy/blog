@@ -1,7 +1,7 @@
 ---
 title: "Papermod"
 date: 2023-11-14T12:49:20-05:00
-author:" Ney Perea"
+author: "Ney Perea"
 draft: false
 ---
 
