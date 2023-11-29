@@ -37,14 +37,14 @@ hugo  server
 
 to render an image the picture should be inside **static** folder
 ![coverimage](/images/coverImage.png)
-{{< figure src="/images/coverImage.png" alt= "cover image" >}}
+{{< figure src="../images/coverImage.png" alt= "cover image" >}}
 
 this is an example to link an image to out article in papermod theme.
 
 
 ## making menus
 
-![coverimage](/images/makingMenu.png)
+![coverimage](../images/makingMenu.png)
 
 **weight** identifies the order of de menu position
 
