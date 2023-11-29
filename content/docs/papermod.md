@@ -37,6 +37,8 @@ hugo  server
 
 to render an image the picture should be inside **static** folder
 ![coverimage](/images/coverImage.png)
+{{< figure src="/images/coverImage.png" alt= "cover image" >}}
+
 this is an example to link an image to out article in papermod theme.
 
 
