@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Proceso de aprendizaje desarrollo de software</title>
+    <link>http://neyperea.me/blog/docs/</link>
+    <description>Recent content in Docs on Proceso de aprendizaje desarrollo de software</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Jan 2023 20:11:15 -0500</lastBuildDate>
+    <atom:link href="http://neyperea.me/blog/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>clase links</title>
+      <link>http://neyperea.me/blog/docs/cursera_links/</link>
+      <pubDate>Mon, 23 Jan 2023 20:11:15 -0500</pubDate>
+      <guid>http://neyperea.me/blog/docs/cursera_links/</guid>
+      <description> links hacia otras paginas del mismo sitio. links hacia diferentes secciones del mismo documtento. links hacia otros sitios web. &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;/html&amp;gt; </description>
+    </item>
+    <item>
+      <title>hugo desde cero </title>
+      <link>http://neyperea.me/blog/docs/hugo_cero/</link>
+      <pubDate>Fri, 20 Jan 2023 07:43:36 -0500</pubDate>
+      <guid>http://neyperea.me/blog/docs/hugo_cero/</guid>
+      <description>es un creador de sitios web estáticos que le permite crear un sitio web con poco o ningún código. Los generadores de sitios estáticos generalmente le permiten escribir su contenido en un lenguaje de marcado simple, como Markdown.
+¿Qué es un sitio web estático?. Un sitio web estático es un sitio cuyas páginas están diseñadas para que el contenido permanezca constante para todos los visitantes y no cambie, no hay una base de datos asociada con el sitio web a través del cual se cambia el contenido, y nadie puede cambiar o actualizar el contenido excepto por regresando al programador que actualiza las páginas y luego las vuelve a cargar al servidor nuevamente.</description>
+    </item>
+  </channel>
+</rss>

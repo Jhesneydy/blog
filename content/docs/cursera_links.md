@@ -2,7 +2,6 @@
 title: "clase links"
 date: 2023-01-23T20:11:15-05:00
 author: "Ney Perea"
-featured_image: ""
 draft: true
 ---
 

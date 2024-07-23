@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LearningSoftwares on Proceso de aprendizaje desarrollo de software</title>
+    <link>http://neyperea.me/blog/learningsoftware/</link>
+    <description>Recent content in LearningSoftwares on Proceso de aprendizaje desarrollo de software</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jul 2024 05:00:20 -0500</lastBuildDate>
+    <atom:link href="http://neyperea.me/blog/learningsoftware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Javascript course</title>
+      <link>http://neyperea.me/blog/learningsoftware/javascriptcourse/</link>
+      <pubDate>Tue, 23 Jul 2024 05:00:20 -0500</pubDate>
+      <guid>http://neyperea.me/blog/learningsoftware/javascriptcourse/</guid>
+      <description>Javascript course JavaScript para Manipulación del DOM - Curso con Proyectos content folder to render an image the picture should be inside **static** folder![coverimage](/images/coverImage.png)this is an example to link an image to out article in papermod theme.## making menus![coverimage](../images/makingMenu.png) </description>
+    </item>
+    <item>
+      <title>Papermod</title>
+      <link>http://neyperea.me/blog/learningsoftware/papermod/</link>
+      <pubDate>Tue, 14 Nov 2023 12:49:20 -0500</pubDate>
+      <guid>http://neyperea.me/blog/learningsoftware/papermod/</guid>
+      <description>hugo file system content folder Post, articles, pages all we work should be store in here.
+layout folder for theme override, if you want to modify themes layout just copy layout theme´s folder in here then modify.
+static for images and static files
+to add a new content:
+hugo new posts/newfile.md markdown sintax hugo server ![coverimage](/images/coverImage.png) to render an image the picture should be inside static folder this is an example to link an image to out article in papermod theme.</description>
+    </item>
+  </channel>
+</rss>

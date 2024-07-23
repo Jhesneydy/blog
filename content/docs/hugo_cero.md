@@ -7,6 +7,9 @@ tag: hugo
 ---
 
 
+
+![treeFileStruc.png](/images/treeFileStruc.png)
+
 [![](https://d33wubrfki0l68.cloudfront.net/c38c7334cc3f23585738e40334284fddcaf03d5e/2e17c/images/hugo-logo-wide.svg)](https://gohugo.io/)
 <br>
  es un creador de sitios web estáticos que le permite crear un sitio web con poco o ningún código. Los generadores de sitios estáticos generalmente le permiten escribir su contenido en un lenguaje de marcado simple, como Markdown.
