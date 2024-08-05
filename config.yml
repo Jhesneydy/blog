@@ -1,4 +1,10 @@
-baseURL: "https://ejemplo.com"
+baseURL: "https://neyperea.me"
 languageCode: en-us
 title: "Proceso de aprendizaje desarrollo de software"
 theme: m10c
+
+
+params:
+  author: "nperea75Dev"
+  avatar: "images/avatar.png"
+  description: "la disciplina vencerá a la inteligencia."
