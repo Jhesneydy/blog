@@ -1,4 +1,4 @@
-baseURL = "https://learningsoftware.netlify.app/"
+baseURL = "https://neyperea.me/"
 languageCode = 'es-co'
 title = 'Learning software blog'
 theme = "m10c"
@@ -8,7 +8,7 @@ theme = "m10c"
   [[menu.main]]
     identifier = "home"
     name = "Home"
-    url = "https://neyperea.me/"
+    url = "/home/"
     weight = 1
   [[menu.main]]
     identifier = "tags"
