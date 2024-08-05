@@ -1,8 +1,10 @@
 ---
-title: "Github skills   "
+title: "web develoment curriculum"
 date: 2023-11-14T17:43:56-05:00
 author: "juan de los palotes"
-draft: false
+tags: 
+- web
+- deploy
 ---
 
 ## Deploy a site
@@ -35,12 +37,6 @@ tambien esta la alternativa de trabajar con docusaurus para crear tu blog
 
 ---
 
----
-title: "web develoment curriculum"
-date: 2023-11-18T20:43:56-05:00
-author: "Ney Perea"
-draft: false
----
 
 # web develoment curriculum
 

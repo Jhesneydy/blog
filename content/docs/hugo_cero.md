@@ -3,12 +3,10 @@ title: "hugo desde cero "
 date: 2023-01-20T07:43:36-05:00
 author: "Ney Perea"
 draft: false
-tag: hugo
+tags: 
+- web
+- hugo
 ---
-
-
-
-![treeFileStruc.png](/images/treeFileStruc.png)
 
 [![](https://d33wubrfki0l68.cloudfront.net/c38c7334cc3f23585738e40334284fddcaf03d5e/2e17c/images/hugo-logo-wide.svg)](https://gohugo.io/)
 <br>

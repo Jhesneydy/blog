@@ -1,7 +1,9 @@
 ---
-title: "realizar un formulario freecodecamp"
+title: "notas pythonicas"
 date: 2023-11-22T05:00:00-00:00
-draft: true
+draft: false
+tags:
+- python
 ---
 # curso de Python en platzi
 

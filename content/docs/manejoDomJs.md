@@ -3,7 +3,8 @@ title: "Manejo de DOM con Javascript"
 date: 2024-07-26
 author: "Ney Perea"
 draft: false
-tag: Javascript
+tags: 
+- Javascript
 ---
 
 

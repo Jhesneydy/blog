@@ -1,7 +1,10 @@
 ---
 title: "realizar un formulario freecodecamp"
 date: 2023-11-19T08:43:36-05:00
-draft: true
+draft: false
+tags:
+- web
+- html
 ---
 
 # creacion de un formulario
@@ -114,3 +117,6 @@ Specifying the type attribute of a form element is important for the browser to 
 ## intective form
 To make the form interactive, add the required attribute to the input elements in the first fieldset.
 
+
+adicion de esta imagen para probar el renderizado de imagenes en netlify
+![treeFileStruc.png](/images/treeFileStruc.png)
