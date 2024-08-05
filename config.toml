@@ -8,7 +8,7 @@ theme = "m10c"
   [[menu.main]]
     identifier = "home"
     name = "Home"
-    url = "/"
+    url = "https://neyperea.me/"
     weight = 1
   [[menu.main]]
     identifier = "tags"
@@ -24,7 +24,7 @@ theme = "m10c"
 [params]
   author = "Ney Perea"
   description = "Tarde o temprano la Disciplina vencerá a la inteligencia"
-  avatar = "/images/avatar.png"
+  avatar = "images/avatar.png"
   # menu_item_separator = " - "
   [[params.social]]
     icon = "github"
