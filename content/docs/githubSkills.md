@@ -9,6 +9,21 @@ tags:
 
 # [Temas para desarrollar las habilidades de github:](https://skills.github.com/#first-week-on-github)
 
+
+| tema    | link | notas    |
+| :---        |    :----:   |          ---: |
+| introduccion a github      | [](https://github.com/skills/introduction-to-github)| Here's this   |
+| Paragraph   | Text        | And more      |
+
+
+
+### mas acerca de tablas:
+[aprnde mas](https://www.markdownguide.org/extended-syntax/#:~:text=To%20add%20a%20table%2C%20use,either%20end%20of%20the%20row.&text=Cell%20widths%20can%20vary%2C%20as,output%20will%20look%20the%20same.)
+
+
+
+
+
 ## Deploy a site
 se aprendio a hacer gh-pages:
 
