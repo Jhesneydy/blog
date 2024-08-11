@@ -7,6 +7,8 @@ tags:
 - deploy
 ---
 
+# [Temas para desarrollar las habilidades de github:](https://skills.github.com/#first-week-on-github)
+
 ## Deploy a site
 se aprendio a hacer gh-pages:
 
