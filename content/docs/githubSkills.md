@@ -10,9 +10,9 @@ tags:
 # [Temas para desarrollar las habilidades de github:](https://skills.github.com/#first-week-on-github)
 
 
-| tema    | link | notas    |
-| :---        |    :----:   |          ---: |
-| introduccion a github      | [](https://github.com/skills/introduction-to-github)| Here's this   |
+| tema        | link        | notas         |
+| ----------- | ----------- | ------------- |
+| introduccion a github.    | [introduccion](https://github.com/skills/introduction-to-github) | primera sección.|
 | Paragraph   | Text        | And more      |
 
 
