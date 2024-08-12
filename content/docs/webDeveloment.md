@@ -8,13 +8,8 @@ tags:
 ---
 # web develoment curriculum
 
-📣  [https://aka.ms/genai-beginners](https://aka.ms/genai-beginners) to get started!
-
-[Microsoft learning site](https://learn.microsoft.com/users/wirelesslife/collections/p1ddcy5jwy0jkm?WT.mc_id=academic-77807-sagibbon)
-
-[Programing languajes and tools](https://github.com/microsoft/Web-Dev-For-Beginners/tree/main/1-getting-started-lessons/1-intro-to-programming-languages)
-
 ## 📂 Each lesson includes: 
+
 
 - optional sketchnote
 - optional supplemental video
@@ -56,11 +51,26 @@ tags:
 | 24  |         [Banking App](https://github.com/microsoft/Web-Dev-For-Beginners/blob/main/7-bank-project/solution/README.md)          |                      Concepts of State Management                      | Learn how your app retains state and how to manage it programmatically                                                              |                                [State Management](https://github.com/microsoft/Web-Dev-For-Beginners/blob/main/7-bank-project/4-state-management/README.md)                                |          Yohan          |
 
 
-## Javascript Beginner´s Course
-[begginers in javascript](https://channel9.msdn.com/Series/Beginners-Series-to-JavaScript/?WT.mc_id=academic-77807-sagibbon)
 
-## IOT Beginner´s Course
-[iot beginners](https://aka.ms/iot-beginners)
+<p style="text-align: center;">August 12, 2024</p>
+## Javascript Beginner´s Course.
+[begginers in javascript.](https://channel9.msdn.com/Series/Beginners-Series-to-JavaScript/?WT.mc_id=academic-77807-sagibbon)
+
+## Programming languajes intro.
+
+[Programing languajes and tools.](https://github.com/microsoft/Web-Dev-For-Beginners/tree/main/1-getting-started-lessons/1-intro-to-programming-languages)
+
+## IOT Beginner´s Course.
+[iot beginners.](https://aka.ms/iot-beginners)
+
+## AI Beginner´s Course.
+
+[https://aka.ms/genai-beginners.](https://aka.ms/genai-beginners) to get started!
+
+
+[Microsoft learning site.](https://learn.microsoft.com/users/wirelesslife/collections/p1ddcy5jwy0jkm?WT.mc_id=academic-77807-sagibbon)
+
+
 
 
 

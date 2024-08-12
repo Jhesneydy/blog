@@ -131,3 +131,15 @@ shortcodes.
 {{< youtube w7Ft2ymGmfc >}}
 
 <hr>
+
+
+- temas de hugo, me parecen  atractivos 
+
+estos videos explican las caracteristicas de hugo de manera agil:
+- [video 1](https://www.youtube.com/watch?v=hjD9jTi_DQ4)
+- video 2
+<p style="text-align: center;">August 12, 2024</p>
+### mas acerca de tablas:
+[aprnde mas](https://www.markdownguide.org/extended-syntax/#:~:text=To%20add%20a%20table%2C%20use,either%20end%20of%20the%20row.&text=Cell%20widths%20can%20vary%2C%20as,output%20will%20look%20the%20same.)
+
+<https://www.markdownguide.org/>
