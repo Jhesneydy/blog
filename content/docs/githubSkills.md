@@ -14,8 +14,8 @@ tags:
 | ----------- | :---------: |  :----------- | :----: |
 | introduccion a github.    | [introduccion](https://github.com/skills/introduction-to-github) |<br> 👇<br> - crear una rama (branch)<br> - hacer Commit a un archivo.<br> - abrir un  pull request<br> - hacer Merge a tus  pull request| 13-08-2024 |
 |  Crear un sitio desde repositorios de github  | [Github-pages](https://github.com/skills/github-pages)  |<br> 👇<br> - Configurar su sitio.<br>- Personaliza su página de inicio. <br>- Crear una publicación de blog. <br>- merge a pull request      |  14-08-2024   |
-| Revisar Pull Request | [PullRequest](https://github.com/skills/review-pull-requests)  |<br> 👇<br>- Abrir una solicitud de PullRequest <br>- Asignarse a uno mismo<br>- Dejar una reseña<br>- Sugerir cambios<br>- Aplicar cambios<br>- Fusionar su solicitud de PullRequest     |  ⏳   |
-
+| Revisar Pull Request | [PullRequest](https://github.com/skills/review-pull-requests)  |<br> 👇<br>- Abrir una solicitud de PullRequest <br>- Asignarse a uno mismo<br>- Dejar una reseña<br>- Sugerir cambios<br>- Aplicar cambios<br>- Fusionar su solicitud de PullRequest     |  15-08-2024   |
+| Resolver conflictos en un merge | [PullRequest](https://github.com/skills/review-pull-requests)  |<br> 👇<br>- Crear una solicitud de incorporación de cambios<br>-Resolver un conflicto durante un merge<br>-Crear un conflicto durante un merge<br>-Fusionar su solicitud de incorporación de cambios | ⏳   |
 
 ---
 <br>
